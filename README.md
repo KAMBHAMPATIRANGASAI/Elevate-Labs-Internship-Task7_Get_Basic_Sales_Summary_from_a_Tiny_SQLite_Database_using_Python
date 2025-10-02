@@ -1,0 +1,1 @@
+# Elevate-Labs-Internship-Task7_Get_Basic_Sales_Summary_from_a_Tiny_SQLite_Database_using_Python
